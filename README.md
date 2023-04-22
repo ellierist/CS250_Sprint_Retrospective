@@ -10,5 +10,5 @@
    importance of the product backlog, can only help in the transition to using these processes as a developer. 
 
 3) What does it mean to be a good team member in software development?
-   Being a good team member means being a team player, making sure your sprint goals are completed, being supportive, learning
+   Being a good team member means helping other team members, making sure your sprint goals are completed, being supportive, learning
    from your mistakes, and making sure to be at the scrum meetings. There are many ways a software engineer can be a team player.
